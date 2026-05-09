@@ -1,0 +1,14 @@
+﻿
+﻿/******************************************************************
+ * File Name: practice2term
+ * Project Type: Win32 Console Application
+ * Project Name: practice2term
+ * Language: C++, Microsoft Visual Studio 2022
+ *
+ * Programmer : Нам Анна Викторовна
+ * Created: 01.05.2026
+ * Last Revision: 09.05.2026
+ * Ознакомительная практика - структуры
+ * Вариант 15
+ *
+ ******************************************************************/
