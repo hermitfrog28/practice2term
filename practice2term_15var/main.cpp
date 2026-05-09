@@ -37,6 +37,7 @@ int main() {
 }
 
 bool IsTimeCorrect(const char time[]) {
+    if (time == nullptr) return false;
     if (time[0] < '0' || time[0] > '9') return false;
     if (time[1] < '0' || time[1] > '9') return false;
     if (time[2] != ':') return false;
